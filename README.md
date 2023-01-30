@@ -9,7 +9,7 @@ http://isc.sans.edu/suspicious_domains.html
 
 http://www.malwaredomains.com
 
-http://www.securityfocus.com/vulnerabilities
+https://bugtraq.securityfocus.com/archive
 
 http://thegoldenmessenger.blogspot.com/feeds/posts/default
 
